@@ -1,0 +1,5 @@
+keyboard==0.13.5
+psutil==5.9.6
+PyDirectInput==1.0.4
+pydirectinput_rgx==2.1.0
+PyGetWindow==0.0.9
